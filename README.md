@@ -54,3 +54,15 @@ The resume can be previewed on the screen and downloaded as a PDF file.
 
 Screenshots and live demo will be added in future updates.
 
+---
+
+## How to Run the Application
+
+1. Clone the repository from GitHub.
+2. Open the project folder in the system.
+3. Install the required libraries using the requirements.txt file.
+4. Run the application using the Streamlit command.
+5. Open the application in the browser.
+6. Enter details like skills, projects, and target job role.
+7. Generate the resume and download it as a PDF.
+
