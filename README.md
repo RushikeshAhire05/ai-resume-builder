@@ -42,3 +42,15 @@ Many students struggle with writing resumes, choosing the right words, and forma
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/ai-resume-builder.git
+
+---
+
+## Project Preview
+
+This project is implemented as a Streamlit web application.
+The application allows users to enter their skills, projects, and job role,
+and then generates professional resume points using AI.
+The resume can be previewed on the screen and downloaded as a PDF file.
+
+Screenshots and live demo will be added in future updates.
+
