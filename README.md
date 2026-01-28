@@ -65,4 +65,17 @@ Screenshots and live demo will be added in future updates.
 5. Open the application in the browser.
 6. Enter details like skills, projects, and target job role.
 7. Generate the resume and download it as a PDF.
+---
+
+## Technologies Used
+- Python
+- Streamlit
+- Transformers (NLP)
+- Scikit-learn
+- GitHub
+
+## Future Improvements
+- Add multiple resume templates
+- Improve UI design
+- Add screenshots and live demo
 
